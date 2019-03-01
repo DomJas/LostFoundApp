@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LostFound</string>
+    <string name="lost_title_hint">Enter a title for the item lost.</string>
+    <string name="lost_title_label">Title</string>
+    <string name="lost_details_label">Details</string>
+    <string name="lost_solved_label">Found</string>
+    <string name="date_picker_title">Date Lost:</string>
+    <string name="new_lost">New Lost</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d losts</string>
+    <string name="lost_suspect_text">Choose Suspect</string>
+    <string name="lost_report_text">Send Lost Report</string>
+    <string name="lost_report">%1$s!The Lost Item Was Discovered On %2$s. %3$s, and %4$s</string>
+    <string name="lost_report_found">The Lost Item Is Found</string>
+    <string name="lost_report_notfound">The Lost Item Is Not Found</string>
+    <string name="lost_report_suspect">The Suspect Is %s.</string>
+    <string name="lost_report_no_suspect">There Is No Suspect.</string>
+    <string name="lost_report_subject"> LostFound Lost Report</string>
+    <string name="send_report">Send Lost Report Via</string>
+    <string name="delete_lost">Delete</string>
+</resources>
